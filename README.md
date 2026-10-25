@@ -1,5 +1,6 @@
 # Matters-hug-ai
-## Idea
+
+## Summary 
 This Ai helps people who feel sad, stressed, lonely, or emotionally overwhelmed.
 The Ai analyzes the user’s mood based on messages or answers to simple questions. If it detects emotional distress, it suggests comforting actions.
 One possible suggestion is spending time with loved ones or receiving a warm hug from a Mather or trusted family member when possible.
